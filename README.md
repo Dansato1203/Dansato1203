@@ -1,9 +1,9 @@
 ### Hi there 👋
 <a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Dansato1203&count_private=true&show_icons=true&theme=nord" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Dansato1203&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dansato1203&layout=compact&theme=nord" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dansato1203&layout=compact&theme=dracula" />
 </a>
 <!--
 **Dansato1203/Dansato1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
